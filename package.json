@@ -1,0 +1,23 @@
+{
+  "name": "newsletter-with-mailchimp-api",
+  "version": "1.0.0",
+  "description": "newsletter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatgirldorian/Newsletter-with-MailChimp-API.git"
+  },
+  "author": "D. Otuagomah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatgirldorian/Newsletter-with-MailChimp-API/issues"
+  },
+  "homepage": "https://github.com/thatgirldorian/Newsletter-with-MailChimp-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
